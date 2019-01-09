@@ -1,0 +1,18 @@
+
+
+Database Name: login
+
+
+Login Credential
+-----------------------------
+
+Admin Section Login:
+
+Username: admin
+Password: Admin123
+
+------------------------------
+User Section Login:
+
+Username: user
+Password: User1234
